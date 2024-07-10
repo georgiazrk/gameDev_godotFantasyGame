@@ -1,0 +1,12 @@
+~ HealthmanD
+
+Medicine Man: Hey there! Before you show me your wounds there is a line.. Im a very busy man you see.
+- What is it exactly you do here?
+	Medicine Man: Well, I have taken a sacred oath of healing my friend, myself and the loyal members of my guild heal all wounds. For the right price of course.
+- Please help!
+	Medicine Man: Well the currency of the land speaks for itself in these matters. If you are hurt, you must pay a tithe.
+	- Which is what again?
+		Medicine Man: Gems of course my good sir! Just find anyone in my guild and they shall heal you right to full again. Just dont forget to tip on the way out.
+Medicine Man: But you have found me in bit of a rut you see, I've used all my medicine. You will have to find another of my brothers scattered throughout the land, they will be willing to help you.
+Medicine Man: If that will be all, I have much to do. But please, don't be a stranger!
+=> END
