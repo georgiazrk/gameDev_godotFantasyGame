@@ -8,7 +8,7 @@ With our game we wanted it to have an open world fantasy RPG feel, with extra ca
 Below I will include a link to the Figma file that I used to help plan and design levels, using sprites from CraftPix.net:
 https://www.figma.com/design/j4YP0t6GXOiBfYr1x2XES9/LevelDesigning!?node-id=0-1&t=L5uQnQX8v8tBk3Xo-1
 
-Please note: The executable file for the game 'The Alchemist's Apprentice' has some bugs. As of my most recent testing (July 2024), the game crashes before the end credits and conclusion of the story. Specifically, after the final boss is killed, the trigger to the end credits and some other game mechanics seem to be broken. If you want to see more details about these particular areas of the games, please refer to the project files.
+Please note: As I cannot upload the executable file for the game I will upload a video of some gameplay ASAP. The game 'The Alchemist's Apprentice' has some bugs. As of my most recent testing (July 2024), the game crashes before the end credits and conclusion of the story. Specifically, after the final boss is killed, the trigger to the end credits and some other game mechanics seem to be broken. If you want to see more details about these particular areas of the games, please refer to the project files.
 
 Skills applied:
 - Game design and development
